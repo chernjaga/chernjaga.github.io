@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Документ без названия</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body,td,th {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #000;
+}
+body {
+	background-color: #F90;
+}
+td {
+	font-weight: bold;
+}
+td {
+	font-weight: normal;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body style="font-family: Verdana, Geneva, sans-serif; font-size: 14px; color: #F63;">
+<table width="98%">
+  <tr>
+    <th height="19" align="center"><h1><!-- TemplateBeginEditable name="Заголовок" -->Заголовок<!-- TemplateEndEditable --></h1></th>
+  </tr>
+</table>
+<table width="98%" border="2" cellspacing="2">
+  <tr>
+    <td><h3><!-- TemplateBeginEditable name="EditRegion2" -->Заголовок<!-- TemplateEndEditable --></h3></td>
+    <td><h3><!-- TemplateBeginEditable name="EditRegion3" -->Заголовок<!-- TemplateEndEditable --></h3>
+      <!-- TemplateBeginEditable name="EditRegion4" -->
+      <p> текст</p>
+    <!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td><!-- TemplateBeginEditable name="EditRegion9" --><img src="../Images/Несвиж.jpg" width="321" height="243"><!-- TemplateEndEditable --></td>
+    <td><!-- TemplateBeginEditable name="EditRegion5" --><strong>Заголовок</strong><!-- TemplateEndEditable --><!-- TemplateBeginEditable name="EditRegion6" -->
+      <p>текст</p>
+    <!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td height="21"><!-- TemplateBeginEditable name="EditRegion10" --><img src="../Images/Полоцк.jpg" width="318" height="255"><!-- TemplateEndEditable --></td>
+    <td><!-- TemplateBeginEditable name="EditRegion8" --><strong>Заголовок</strong><!-- TemplateEndEditable --> <!-- TemplateBeginEditable name="EditRegion7" -->текст<!-- TemplateEndEditable --></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>
